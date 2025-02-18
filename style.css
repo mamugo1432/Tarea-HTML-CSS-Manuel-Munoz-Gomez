@@ -1,0 +1,79 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#titulo{
+    color: teal;
+}
+
+p strong {
+    color: red;
+}
+
+.destacado{
+    color: orange;
+}
+
+#subtitulo{
+    color: blue;
+}
+
+a{
+    color:red;
+}
+
+a em {
+    color:blue
+}
+
+.especial{
+    color: purple;
+    
+}
+table{
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 7px;
+}
+caption{
+    color: blue;
+}
+th{
+    font-weight: bold;
+}
+
+tfoot tr th{
+    color: red;
+}
+
+tbody tr th{
+    color: red;
+}
+
+table .especial{
+    color: orange;
+}
+
+table td{
+    color: green;
+}
+
+tbody strong{
+    color: orange;
+}
+
+#adicional{
+    color:olive;
+}
+
+#especial{
+    color:fuchsia;
+}
+
+#adicional a{
+    color:green
+}
+
